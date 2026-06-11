@@ -164,9 +164,7 @@ Model used: `llama-3.1-8b-instant` | Temperature: `0.2` (for consistent, factual
 
 ## 📸 Test Email Screenshot
 
-> *(Add a screenshot of the received email here)*
-
-![Test Email Screenshot](daily_digest_test_email.png)
+![Test Email Screenshot](Test%20Email%20Screenshot.png)
 
 ---
 
